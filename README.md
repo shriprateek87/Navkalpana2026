@@ -7,9 +7,9 @@ AI-Assisted Personal Finance Manager is an intelligent application that helps us
 
 ## Team Members & Roles
 - Muskan Dwivedi – Frontend Development and UI Design  
-- [Member Name] – Backend Development  
-- [Member Name] – AI/ML Integration  
-- [Member Name] – Database Management and Testing  
+- Vivek Kumar – Backend Development  
+- Palak chauhan – AI/ML Integration  
+- Prateek Singh(Team lead) – Database Management and Testing  
 
 ---
 
